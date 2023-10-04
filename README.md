@@ -6,3 +6,4 @@ To run the app:
 ``` 
 streamlit run streamlit_app.py
 ```
+Alternatively, app is also available [here](https://datadive-imf-climate-draft.streamlit.app/)
