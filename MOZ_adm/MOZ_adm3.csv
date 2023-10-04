@@ -1,0 +1,416 @@
+"OBJECTID","ID_0","ISO","NAME_0","ID_1","NAME_1","ID_2","NAME_2","ID_3","NAME_3","TYPE_3","ENGTYPE_3","NL_NAME_3","VARNAME_3"
+1,153,"MOZ","Mozambique",1,"Cabo Delgado",1,"Ancuabe",1,"Ancuabe","Localidad","Locality",NA,NA
+2,153,"MOZ","Mozambique",1,"Cabo Delgado",1,"Ancuabe",2,"Chiure-Sede","Localidad","Locality",NA,NA
+3,153,"MOZ","Mozambique",1,"Cabo Delgado",1,"Ancuabe",3,"Metoro","Localidad","Locality",NA,NA
+4,153,"MOZ","Mozambique",1,"Cabo Delgado",1,"Ancuabe",4,"Meza","Localidad","Locality",NA,NA
+5,153,"MOZ","Mozambique",1,"Cabo Delgado",1,"Ancuabe",5,"Murrebue","Localidad","Locality",NA,NA
+6,153,"MOZ","Mozambique",1,"Cabo Delgado",2,"Balama",6,"Balama","Localidad","Locality",NA,NA
+7,153,"MOZ","Mozambique",1,"Cabo Delgado",2,"Balama",7,"Impiri","Localidad","Locality",NA,NA
+8,153,"MOZ","Mozambique",1,"Cabo Delgado",2,"Balama",8,"Kwekwe","Localidad","Locality",NA,NA
+9,153,"MOZ","Mozambique",1,"Cabo Delgado",2,"Balama",9,"Mavala","Localidad","Locality",NA,NA
+10,153,"MOZ","Mozambique",1,"Cabo Delgado",3,"Chiúre",10,"Chiure Velho","Localidad","Locality",NA,NA
+11,153,"MOZ","Mozambique",1,"Cabo Delgado",3,"Chiúre",11,"Katapua","Localidad","Locality",NA,NA
+12,153,"MOZ","Mozambique",1,"Cabo Delgado",3,"Chiúre",12,"Mazeze","Localidad","Locality",NA,NA
+13,153,"MOZ","Mozambique",1,"Cabo Delgado",3,"Chiúre",13,"Namogelia","Localidad","Locality",NA,NA
+14,153,"MOZ","Mozambique",1,"Cabo Delgado",3,"Chiúre",14,"Ocua","Localidad","Locality",NA,NA
+15,153,"MOZ","Mozambique",1,"Cabo Delgado",4,"Macomia",15,"Chai","Localidad","Locality",NA,NA
+16,153,"MOZ","Mozambique",1,"Cabo Delgado",4,"Macomia",16,"Macomia-Sede","Localidad","Locality",NA,NA
+17,153,"MOZ","Mozambique",1,"Cabo Delgado",4,"Macomia",17,"Mucojo","Localidad","Locality",NA,NA
+18,153,"MOZ","Mozambique",1,"Cabo Delgado",4,"Macomia",18,"Quirimba","Localidad","Locality",NA,NA
+19,153,"MOZ","Mozambique",1,"Cabo Delgado",4,"Macomia",19,"Quissanga","Localidad","Locality",NA,NA
+20,153,"MOZ","Mozambique",1,"Cabo Delgado",4,"Macomia",20,"Quiterajo","Localidad","Locality",NA,NA
+21,153,"MOZ","Mozambique",1,"Cabo Delgado",5,"Mecufi",21,"Mecufi","Localidad","Locality",NA,NA
+22,153,"MOZ","Mozambique",1,"Cabo Delgado",6,"Meluco",22,"Meluco","Localidad","Locality",NA,NA
+23,153,"MOZ","Mozambique",1,"Cabo Delgado",6,"Meluco",23,"Muaguide","Localidad","Locality",NA,NA
+24,153,"MOZ","Mozambique",1,"Cabo Delgado",7,"Mocimboa da Praia",24,"Diaca","Localidad","Locality",NA,NA
+25,153,"MOZ","Mozambique",1,"Cabo Delgado",7,"Mocimboa da Praia",25,"Mbau","Localidad","Locality",NA,NA
+26,153,"MOZ","Mozambique",1,"Cabo Delgado",7,"Mocimboa da Praia",26,"Mocimboa Da Praia","Localidad","Locality",NA,NA
+27,153,"MOZ","Mozambique",1,"Cabo Delgado",8,"Montepuez",27,"Mirate","Localidad","Locality",NA,NA
+28,153,"MOZ","Mozambique",1,"Cabo Delgado",8,"Montepuez",28,"Montepuez Cidade (Sede)","Localidad","Locality",NA,NA
+29,153,"MOZ","Mozambique",1,"Cabo Delgado",8,"Montepuez",29,"Montepuez Cidade","Localidad","Locality",NA,NA
+30,153,"MOZ","Mozambique",1,"Cabo Delgado",8,"Montepuez",30,"Nairoto","Localidad","Locality",NA,NA
+31,153,"MOZ","Mozambique",1,"Cabo Delgado",8,"Montepuez",31,"Namanhumbir","Localidad","Locality",NA,NA
+32,153,"MOZ","Mozambique",1,"Cabo Delgado",9,"Mueda",32,"Chapa","Localidad","Locality",NA,NA
+33,153,"MOZ","Mozambique",1,"Cabo Delgado",9,"Mueda",33,"Imbuho","Localidad","Locality",NA,NA
+34,153,"MOZ","Mozambique",1,"Cabo Delgado",9,"Mueda",34,"Mueda-Sede","Localidad","Locality",NA,NA
+35,153,"MOZ","Mozambique",1,"Cabo Delgado",9,"Mueda",35,"N'Gapa","Localidad","Locality",NA,NA
+36,153,"MOZ","Mozambique",1,"Cabo Delgado",9,"Mueda",36,"Negomano","Localidad","Locality",NA,NA
+37,153,"MOZ","Mozambique",1,"Cabo Delgado",10,"Muidumbe",37,"Chitunda","Localidad","Locality",NA,NA
+38,153,"MOZ","Mozambique",1,"Cabo Delgado",10,"Muidumbe",38,"Miteda","Localidad","Locality",NA,NA
+39,153,"MOZ","Mozambique",1,"Cabo Delgado",10,"Muidumbe",39,"Muidumbe","Localidad","Locality",NA,NA
+40,153,"MOZ","Mozambique",1,"Cabo Delgado",11,"Namuno",40,"Hucula","Localidad","Locality",NA,NA
+41,153,"MOZ","Mozambique",1,"Cabo Delgado",11,"Namuno",41,"Luli","Localidad","Locality",NA,NA
+42,153,"MOZ","Mozambique",1,"Cabo Delgado",11,"Namuno",42,"Machoca","Localidad","Locality",NA,NA
+43,153,"MOZ","Mozambique",1,"Cabo Delgado",11,"Namuno",43,"Meloco","Localidad","Locality",NA,NA
+44,153,"MOZ","Mozambique",1,"Cabo Delgado",11,"Namuno",44,"Namuno-Sede","Localidad","Locality",NA,NA
+45,153,"MOZ","Mozambique",1,"Cabo Delgado",11,"Namuno",45,"Ncumpe","Localidad","Locality",NA,NA
+46,153,"MOZ","Mozambique",1,"Cabo Delgado",12,"Nangade",46,"Nangade","Localidad","Locality",NA,NA
+47,153,"MOZ","Mozambique",1,"Cabo Delgado",12,"Nangade",47,"Ntamba","Localidad","Locality",NA,NA
+48,153,"MOZ","Mozambique",1,"Cabo Delgado",13,"Palma",48,"Olumbe","Localidad","Locality",NA,NA
+49,153,"MOZ","Mozambique",1,"Cabo Delgado",13,"Palma",49,"Palma","Localidad","Locality",NA,NA
+50,153,"MOZ","Mozambique",1,"Cabo Delgado",13,"Palma",50,"Pundanhar","Localidad","Locality",NA,NA
+51,153,"MOZ","Mozambique",1,"Cabo Delgado",13,"Palma",51,"Quionga","Localidad","Locality",NA,NA
+52,153,"MOZ","Mozambique",1,"Cabo Delgado",14,"Pemba",52,"Metuge Sede","Localidad","Locality",NA,NA
+53,153,"MOZ","Mozambique",1,"Cabo Delgado",14,"Pemba",53,"Mieze","Localidad","Locality",NA,NA
+54,153,"MOZ","Mozambique",1,"Cabo Delgado",14,"Pemba",54,"Pemba Cidade","Localidad","Locality",NA,NA
+55,153,"MOZ","Mozambique",1,"Cabo Delgado",15,"Quissanga",55,"Bilibiza","Localidad","Locality",NA,NA
+56,153,"MOZ","Mozambique",1,"Cabo Delgado",15,"Quissanga",56,"Mahate","Localidad","Locality",NA,NA
+57,153,"MOZ","Mozambique",2,"Gaza",16,"Bilene",57,"Bilene Macia","Localidad","Locality",NA,NA
+58,153,"MOZ","Mozambique",2,"Gaza",16,"Bilene",58,"Chissano","Localidad","Locality",NA,NA
+59,153,"MOZ","Mozambique",2,"Gaza",16,"Bilene",59,"Macuane","Localidad","Locality",NA,NA
+60,153,"MOZ","Mozambique",2,"Gaza",16,"Bilene",60,"Mazivila","Localidad","Locality",NA,NA
+61,153,"MOZ","Mozambique",2,"Gaza",16,"Bilene",61,"Messano","Localidad","Locality",NA,NA
+62,153,"MOZ","Mozambique",2,"Gaza",16,"Bilene",62,"Praia De Bilene","Localidad","Locality",NA,NA
+63,153,"MOZ","Mozambique",2,"Gaza",17,"Chókwè",63,"Cidade Chokwe","Localidad","Locality",NA,NA
+64,153,"MOZ","Mozambique",2,"Gaza",17,"Chókwè",64,"Lionde","Localidad","Locality",NA,NA
+65,153,"MOZ","Mozambique",2,"Gaza",17,"Chókwè",65,"Macarretane","Localidad","Locality",NA,NA
+66,153,"MOZ","Mozambique",2,"Gaza",17,"Chókwè",66,"Xilembene","Localidad","Locality",NA,NA
+67,153,"MOZ","Mozambique",2,"Gaza",18,"Chibuto",67,"Alto Changane","Localidad","Locality",NA,NA
+68,153,"MOZ","Mozambique",2,"Gaza",18,"Chibuto",68,"Chaimite","Localidad","Locality",NA,NA
+69,153,"MOZ","Mozambique",2,"Gaza",18,"Chibuto",69,"Changanine","Localidad","Locality",NA,NA
+70,153,"MOZ","Mozambique",2,"Gaza",18,"Chibuto",70,"Chibuto","Localidad","Locality",NA,NA
+71,153,"MOZ","Mozambique",2,"Gaza",18,"Chibuto",71,"Godide","Localidad","Locality",NA,NA
+72,153,"MOZ","Mozambique",2,"Gaza",18,"Chibuto",72,"Malehice","Localidad","Locality",NA,NA
+73,153,"MOZ","Mozambique",2,"Gaza",19,"Chicualacuala",73,"Chicualacuala (E.M. Sede)","Localidad","Locality",NA,NA
+74,153,"MOZ","Mozambique",2,"Gaza",19,"Chicualacuala",74,"Mapai","Localidad","Locality",NA,NA
+75,153,"MOZ","Mozambique",2,"Gaza",19,"Chicualacuala",75,"Pafuri","Localidad","Locality",NA,NA
+76,153,"MOZ","Mozambique",2,"Gaza",20,"Chigubo",76,"Chigubo","Localidad","Locality",NA,NA
+77,153,"MOZ","Mozambique",2,"Gaza",20,"Chigubo",77,"Ndindiza","Localidad","Locality",NA,NA
+78,153,"MOZ","Mozambique",2,"Gaza",21,"Guijá",78,"Chivonguene","Localidad","Locality",NA,NA
+79,153,"MOZ","Mozambique",2,"Gaza",21,"Guijá",79,"Mubanguene","Localidad","Locality",NA,NA
+80,153,"MOZ","Mozambique",2,"Gaza",21,"Guijá",80,"Nalazi","Localidad","Locality",NA,NA
+81,153,"MOZ","Mozambique",2,"Gaza",21,"Guijá",81,"Vila De Canicado","Localidad","Locality",NA,NA
+82,153,"MOZ","Mozambique",2,"Gaza",22,"Mabalane",82,"Combomune","Localidad","Locality",NA,NA
+83,153,"MOZ","Mozambique",2,"Gaza",22,"Mabalane",83,"Mabalane","Localidad","Locality",NA,NA
+84,153,"MOZ","Mozambique",2,"Gaza",22,"Mabalane",84,"Ntlavane","Localidad","Locality",NA,NA
+85,153,"MOZ","Mozambique",2,"Gaza",23,"Mandlakazi",85,"Chalala","Localidad","Locality",NA,NA
+86,153,"MOZ","Mozambique",2,"Gaza",23,"Mandlakazi",86,"Chibonzane","Localidad","Locality",NA,NA
+87,153,"MOZ","Mozambique",2,"Gaza",23,"Mandlakazi",87,"Chidenguele","Localidad","Locality",NA,NA
+88,153,"MOZ","Mozambique",2,"Gaza",23,"Mandlakazi",88,"Macuacua","Localidad","Locality",NA,NA
+89,153,"MOZ","Mozambique",2,"Gaza",23,"Mandlakazi",89,"Mandlacaze","Localidad","Locality",NA,NA
+90,153,"MOZ","Mozambique",2,"Gaza",23,"Mandlakazi",90,"Mazucane","Localidad","Locality",NA,NA
+91,153,"MOZ","Mozambique",2,"Gaza",23,"Mandlakazi",91,"Nguzene","Localidad","Locality",NA,NA
+92,153,"MOZ","Mozambique",2,"Gaza",24,"Massangena",92,"Massangena","Localidad","Locality",NA,NA
+93,153,"MOZ","Mozambique",2,"Gaza",24,"Massangena",93,"Muvue","Localidad","Locality",NA,NA
+94,153,"MOZ","Mozambique",2,"Gaza",25,"Massingir",94,"Massingir","Localidad","Locality",NA,NA
+95,153,"MOZ","Mozambique",2,"Gaza",25,"Massingir",95,"Mavodze","Localidad","Locality",NA,NA
+96,153,"MOZ","Mozambique",2,"Gaza",25,"Massingir",96,"Zulo","Localidad","Locality",NA,NA
+97,153,"MOZ","Mozambique",2,"Gaza",26,"Xai-Xai",97,"Chicunbane","Localidad","Locality",NA,NA
+98,153,"MOZ","Mozambique",2,"Gaza",26,"Xai-Xai",98,"Chongoene","Localidad","Locality",NA,NA
+99,153,"MOZ","Mozambique",2,"Gaza",26,"Xai-Xai",99,"Cidade De Xai-Xai","Localidad","Locality",NA,NA
+100,153,"MOZ","Mozambique",2,"Gaza",26,"Xai-Xai",100,"Zonguene","Localidad","Locality",NA,NA
+101,153,"MOZ","Mozambique",3,"Inhambane",27,"Funhalouro",101,"Funhalouro","Localidad","Locality",NA,NA
+102,153,"MOZ","Mozambique",3,"Inhambane",27,"Funhalouro",102,"Tome","Localidad","Locality",NA,NA
+103,153,"MOZ","Mozambique",3,"Inhambane",28,"Govuro",103,"Nova Mambone (Mambone Sede)","Localidad","Locality",NA,NA
+104,153,"MOZ","Mozambique",3,"Inhambane",28,"Govuro",104,"Save","Localidad","Locality",NA,NA
+105,153,"MOZ","Mozambique",3,"Inhambane",29,"Homoine",105,"Homoine - Sede","Localidad","Locality",NA,NA
+106,153,"MOZ","Mozambique",3,"Inhambane",29,"Homoine",106,"Maxixe (Cidade)","Localidad","Locality",NA,NA
+107,153,"MOZ","Mozambique",3,"Inhambane",29,"Homoine",107,"Pembe","Localidad","Locality",NA,NA
+108,153,"MOZ","Mozambique",3,"Inhambane",30,"Inharrime",108,"Inharrime - Sede","Localidad","Locality",NA,NA
+109,153,"MOZ","Mozambique",3,"Inhambane",30,"Inharrime",109,"Mucumbi","Localidad","Locality",NA,NA
+110,153,"MOZ","Mozambique",3,"Inhambane",31,"Inhassoro",110,"Inhassoro","Localidad","Locality",NA,NA
+111,153,"MOZ","Mozambique",3,"Inhambane",32,"Jangamo",111,"Cumbana","Localidad","Locality",NA,NA
+112,153,"MOZ","Mozambique",3,"Inhambane",32,"Jangamo",112,"Inhambane (Cidade)","Localidad","Locality",NA,NA
+113,153,"MOZ","Mozambique",3,"Inhambane",32,"Jangamo",113,"Jangamo","Localidad","Locality",NA,NA
+114,153,"MOZ","Mozambique",3,"Inhambane",33,"Mabote",114,"Mabote","Localidad","Locality",NA,NA
+115,153,"MOZ","Mozambique",3,"Inhambane",33,"Mabote",115,"Zimane","Localidad","Locality",NA,NA
+116,153,"MOZ","Mozambique",3,"Inhambane",33,"Mabote",116,"Zinave","Localidad","Locality",NA,NA
+117,153,"MOZ","Mozambique",3,"Inhambane",34,"Massinga",117,"Chicomo","Localidad","Locality",NA,NA
+118,153,"MOZ","Mozambique",3,"Inhambane",34,"Massinga",118,"Massinga","Localidad","Locality",NA,NA
+119,153,"MOZ","Mozambique",3,"Inhambane",35,"Morrumbene",119,"Mocoduene","Localidad","Locality",NA,NA
+120,153,"MOZ","Mozambique",3,"Inhambane",35,"Morrumbene",120,"Morrumbene","Localidad","Locality",NA,NA
+121,153,"MOZ","Mozambique",3,"Inhambane",36,"Panda",121,"Mawayela","Localidad","Locality",NA,NA
+122,153,"MOZ","Mozambique",3,"Inhambane",36,"Panda",122,"Panda","Localidad","Locality",NA,NA
+123,153,"MOZ","Mozambique",3,"Inhambane",36,"Panda",123,"Urrene","Localidad","Locality",NA,NA
+124,153,"MOZ","Mozambique",3,"Inhambane",37,"Vilanculos",124,"Mapinhane","Localidad","Locality",NA,NA
+125,153,"MOZ","Mozambique",3,"Inhambane",37,"Vilanculos",125,"Vilankulo","Localidad","Locality",NA,NA
+126,153,"MOZ","Mozambique",3,"Inhambane",38,"Zavala",126,"Quissico","Localidad","Locality",NA,NA
+127,153,"MOZ","Mozambique",3,"Inhambane",38,"Zavala",127,"Zandamela","Localidad","Locality",NA,NA
+128,153,"MOZ","Mozambique",4,"Manica",39,"Barue",128,"Cantadica","Localidad","Locality",NA,NA
+129,153,"MOZ","Mozambique",4,"Manica",39,"Barue",129,"Choa","Localidad","Locality",NA,NA
+130,153,"MOZ","Mozambique",4,"Manica",39,"Barue",130,"Nhampassa","Localidad","Locality",NA,NA
+131,153,"MOZ","Mozambique",4,"Manica",40,"Gondola",131,"Amatongas","Localidad","Locality",NA,NA
+132,153,"MOZ","Mozambique",4,"Manica",40,"Gondola",132,"Cafumpe","Localidad","Locality",NA,NA
+133,153,"MOZ","Mozambique",4,"Manica",40,"Gondola",133,"Gondola","Localidad","Locality",NA,NA
+134,153,"MOZ","Mozambique",4,"Manica",40,"Gondola",134,"Inchope","Localidad","Locality",NA,NA
+135,153,"MOZ","Mozambique",4,"Manica",40,"Gondola",135,"Macate","Localidad","Locality",NA,NA
+136,153,"MOZ","Mozambique",4,"Manica",40,"Gondola",136,"Matsinho 2","Localidad","Locality",NA,NA
+137,153,"MOZ","Mozambique",4,"Manica",40,"Gondola",137,"Matsinho","Localidad","Locality",NA,NA
+138,153,"MOZ","Mozambique",4,"Manica",40,"Gondola",138,"Urbana 1 (Sede)","Localidad","Locality",NA,NA
+139,153,"MOZ","Mozambique",4,"Manica",41,"Guro",139,"Dacata","Localidad","Locality",NA,NA
+140,153,"MOZ","Mozambique",4,"Manica",41,"Guro",140,"Guro Sede","Localidad","Locality",NA,NA
+141,153,"MOZ","Mozambique",4,"Manica",41,"Guro",141,"Mandie","Localidad","Locality",NA,NA
+142,153,"MOZ","Mozambique",4,"Manica",41,"Guro",142,"Mungari","Localidad","Locality",NA,NA
+143,153,"MOZ","Mozambique",4,"Manica",41,"Guro",143,"Nhamassonge","Localidad","Locality",NA,NA
+144,153,"MOZ","Mozambique",4,"Manica",42,"Machaze",144,"Machaze (Chitobe Sede)","Localidad","Locality",NA,NA
+145,153,"MOZ","Mozambique",4,"Manica",42,"Machaze",145,"Save","Localidad","Locality",NA,NA
+146,153,"MOZ","Mozambique",4,"Manica",43,"Macossa",146,"Macossa","Localidad","Locality",NA,NA
+147,153,"MOZ","Mozambique",4,"Manica",43,"Macossa",147,"Nguawala","Localidad","Locality",NA,NA
+148,153,"MOZ","Mozambique",4,"Manica",43,"Macossa",148,"Nhamangua","Localidad","Locality",NA,NA
+149,153,"MOZ","Mozambique",4,"Manica",44,"Manica",149,"Machipanda","Localidad","Locality",NA,NA
+150,153,"MOZ","Mozambique",4,"Manica",44,"Manica",150,"Manica","Localidad","Locality",NA,NA
+151,153,"MOZ","Mozambique",4,"Manica",44,"Manica",151,"Mavonde","Localidad","Locality",NA,NA
+152,153,"MOZ","Mozambique",4,"Manica",44,"Manica",152,"Messica","Localidad","Locality",NA,NA
+153,153,"MOZ","Mozambique",4,"Manica",44,"Manica",153,"Vanduzi","Localidad","Locality",NA,NA
+154,153,"MOZ","Mozambique",4,"Manica",45,"Mossurize",154,"Chiurairue","Localidad","Locality",NA,NA
+155,153,"MOZ","Mozambique",4,"Manica",45,"Mossurize",155,"Dacata","Localidad","Locality",NA,NA
+156,153,"MOZ","Mozambique",4,"Manica",45,"Mossurize",156,"Espungabera","Localidad","Locality",NA,NA
+157,153,"MOZ","Mozambique",4,"Manica",46,"Sussundenga",157,"Dombe","Localidad","Locality",NA,NA
+158,153,"MOZ","Mozambique",4,"Manica",46,"Sussundenga",158,"Muhoa","Localidad","Locality",NA,NA
+159,153,"MOZ","Mozambique",4,"Manica",46,"Sussundenga",159,"Rotanda","Localidad","Locality",NA,NA
+160,153,"MOZ","Mozambique",4,"Manica",46,"Sussundenga",160,"Sussundenga","Localidad","Locality",NA,NA
+161,153,"MOZ","Mozambique",4,"Manica",47,"Tambara",161,"Buzua","Localidad","Locality",NA,NA
+162,153,"MOZ","Mozambique",4,"Manica",47,"Tambara",162,"Nhacafula","Localidad","Locality",NA,NA
+163,153,"MOZ","Mozambique",4,"Manica",47,"Tambara",163,"Nhacolo","Localidad","Locality",NA,NA
+164,153,"MOZ","Mozambique",5,"Maputo City",48,"Boane",164,"Matola Rio","Localidad","Locality",NA,NA
+165,153,"MOZ","Mozambique",5,"Maputo City",49,"Maputo",165,"Cidade De Matola","Localidad","Locality",NA,NA
+166,153,"MOZ","Mozambique",5,"Maputo City",49,"Maputo",166,"Maputo 1","Localidad","Locality",NA,NA
+167,153,"MOZ","Mozambique",5,"Maputo City",49,"Maputo",167,"Maputo 2","Localidad","Locality",NA,NA
+168,153,"MOZ","Mozambique",5,"Maputo City",49,"Maputo",168,"Maputo 3","Localidad","Locality",NA,NA
+169,153,"MOZ","Mozambique",5,"Maputo City",49,"Maputo",169,"Maputo 4","Localidad","Locality",NA,NA
+170,153,"MOZ","Mozambique",5,"Maputo City",49,"Maputo",170,"Maputo 5","Localidad","Locality",NA,NA
+171,153,"MOZ","Mozambique",6,"Maputo",50,"Boane",171,"Boane","Localidad","Locality",NA,NA
+172,153,"MOZ","Mozambique",6,"Maputo",51,"Magude",172,"Magude","Localidad","Locality",NA,NA
+173,153,"MOZ","Mozambique",6,"Maputo",51,"Magude",173,"Mahele","Localidad","Locality",NA,NA
+174,153,"MOZ","Mozambique",6,"Maputo",51,"Magude",174,"Mapulanguene","Localidad","Locality",NA,NA
+175,153,"MOZ","Mozambique",6,"Maputo",51,"Magude",175,"Motaze","Localidad","Locality",NA,NA
+176,153,"MOZ","Mozambique",6,"Maputo",51,"Magude",176,"Panjane","Localidad","Locality",NA,NA
+177,153,"MOZ","Mozambique",6,"Maputo",52,"Manhiça",177,"3 De Fevereiro","Localidad","Locality",NA,NA
+178,153,"MOZ","Mozambique",6,"Maputo",52,"Manhiça",178,"Calanga","Localidad","Locality",NA,NA
+179,153,"MOZ","Mozambique",6,"Maputo",52,"Manhiça",179,"Ilha Josina Machel","Localidad","Locality",NA,NA
+180,153,"MOZ","Mozambique",6,"Maputo",52,"Manhiça",180,"Maluana","Localidad","Locality",NA,NA
+181,153,"MOZ","Mozambique",6,"Maputo",52,"Manhiça",181,"Manhica - Sede","Localidad","Locality",NA,NA
+182,153,"MOZ","Mozambique",6,"Maputo",52,"Manhiça",182,"Xinavane","Localidad","Locality",NA,NA
+183,153,"MOZ","Mozambique",6,"Maputo",53,"Marracuene",183,"Machubo","Localidad","Locality",NA,NA
+184,153,"MOZ","Mozambique",6,"Maputo",53,"Marracuene",184,"Marracuene","Localidad","Locality",NA,NA
+185,153,"MOZ","Mozambique",6,"Maputo",54,"Matutuíne",185,"Catembe","Localidad","Locality",NA,NA
+186,153,"MOZ","Mozambique",6,"Maputo",54,"Matutuíne",186,"Catuane","Localidad","Locality",NA,NA
+187,153,"MOZ","Mozambique",6,"Maputo",54,"Matutuíne",187,"Machangulo","Localidad","Locality",NA,NA
+188,153,"MOZ","Mozambique",6,"Maputo",54,"Matutuíne",188,"Missevene (Bela Vista)","Localidad","Locality",NA,NA
+189,153,"MOZ","Mozambique",6,"Maputo",54,"Matutuíne",189,"Zitundo","Localidad","Locality",NA,NA
+190,153,"MOZ","Mozambique",6,"Maputo",55,"Moamba",190,"Moamba","Localidad","Locality",NA,NA
+191,153,"MOZ","Mozambique",6,"Maputo",55,"Moamba",191,"Pessene","Localidad","Locality",NA,NA
+192,153,"MOZ","Mozambique",6,"Maputo",55,"Moamba",192,"Ressano Garcia","Localidad","Locality",NA,NA
+193,153,"MOZ","Mozambique",6,"Maputo",55,"Moamba",193,"Sabie","Localidad","Locality",NA,NA
+194,153,"MOZ","Mozambique",6,"Maputo",56,"Namaacha",194,"Changalane","Localidad","Locality",NA,NA
+195,153,"MOZ","Mozambique",6,"Maputo",56,"Namaacha",195,"Namaacha","Localidad","Locality",NA,NA
+196,153,"MOZ","Mozambique",7,"Nampula",57,"Angoche",196,"Angoche","Localidad","Locality",NA,NA
+197,153,"MOZ","Mozambique",7,"Nampula",57,"Angoche",197,"Aube","Localidad","Locality",NA,NA
+198,153,"MOZ","Mozambique",7,"Nampula",57,"Angoche",198,"Boila - Nametoria","Localidad","Locality",NA,NA
+199,153,"MOZ","Mozambique",7,"Nampula",57,"Angoche",199,"Namaponda","Localidad","Locality",NA,NA
+200,153,"MOZ","Mozambique",7,"Nampula",58,"Erati",200,"Intete","Localidad","Locality",NA,NA
+201,153,"MOZ","Mozambique",7,"Nampula",58,"Erati",201,"Nacaroa","Localidad","Locality",NA,NA
+202,153,"MOZ","Mozambique",7,"Nampula",58,"Erati",202,"Saua-Saua","Localidad","Locality",NA,NA
+203,153,"MOZ","Mozambique",7,"Nampula",59,"Lalaua",203,"Lalaua","Localidad","Locality",NA,NA
+204,153,"MOZ","Mozambique",7,"Nampula",59,"Lalaua",204,"Meti","Localidad","Locality",NA,NA
+205,153,"MOZ","Mozambique",7,"Nampula",60,"Malema",205,"Chihulo","Localidad","Locality",NA,NA
+206,153,"MOZ","Mozambique",7,"Nampula",60,"Malema",206,"Malema","Localidad","Locality",NA,NA
+207,153,"MOZ","Mozambique",7,"Nampula",60,"Malema",207,"Mutuali (Canhunha)","Localidad","Locality",NA,NA
+208,153,"MOZ","Mozambique",7,"Nampula",61,"Meconta",208,"7 De Abril","Localidad","Locality",NA,NA
+209,153,"MOZ","Mozambique",7,"Nampula",61,"Meconta",209,"Corrane","Localidad","Locality",NA,NA
+210,153,"MOZ","Mozambique",7,"Nampula",61,"Meconta",210,"Meconta","Localidad","Locality",NA,NA
+211,153,"MOZ","Mozambique",7,"Nampula",61,"Meconta",211,"Namialo","Localidad","Locality",NA,NA
+212,153,"MOZ","Mozambique",7,"Nampula",62,"Mecuburi",212,"Mecuburi","Localidad","Locality",NA,NA
+213,153,"MOZ","Mozambique",7,"Nampula",62,"Mecuburi",213,"Mihlana (Milhana)","Localidad","Locality",NA,NA
+214,153,"MOZ","Mozambique",7,"Nampula",62,"Mecuburi",214,"Muite","Localidad","Locality",NA,NA
+215,153,"MOZ","Mozambique",7,"Nampula",62,"Mecuburi",215,"Namina","Localidad","Locality",NA,NA
+216,153,"MOZ","Mozambique",7,"Nampula",63,"Memba",216,"Chipene","Localidad","Locality",NA,NA
+217,153,"MOZ","Mozambique",7,"Nampula",63,"Memba",217,"Mazua","Localidad","Locality",NA,NA
+218,153,"MOZ","Mozambique",7,"Nampula",63,"Memba",218,"Memba","Localidad","Locality",NA,NA
+219,153,"MOZ","Mozambique",7,"Nampula",64,"Mogovolas",219,"Calipo","Localidad","Locality",NA,NA
+220,153,"MOZ","Mozambique",7,"Nampula",64,"Mogovolas",220,"Ilute (Luluti)","Localidad","Locality",NA,NA
+221,153,"MOZ","Mozambique",7,"Nampula",64,"Mogovolas",221,"Muatua","Localidad","Locality",NA,NA
+222,153,"MOZ","Mozambique",7,"Nampula",64,"Mogovolas",222,"Nametil - Sede","Localidad","Locality",NA,NA
+223,153,"MOZ","Mozambique",7,"Nampula",64,"Mogovolas",223,"Nanhupo","Localidad","Locality",NA,NA
+224,153,"MOZ","Mozambique",7,"Nampula",65,"Moma",224,"Chalaua","Localidad","Locality",NA,NA
+225,153,"MOZ","Mozambique",7,"Nampula",65,"Moma",225,"Larde","Localidad","Locality",NA,NA
+226,153,"MOZ","Mozambique",7,"Nampula",65,"Moma",226,"Macone - Sede (Moma Sede)","Localidad","Locality",NA,NA
+227,153,"MOZ","Mozambique",7,"Nampula",65,"Moma",227,"Mucuali","Localidad","Locality",NA,NA
+228,153,"MOZ","Mozambique",7,"Nampula",66,"Monapo",228,"Itoculo","Localidad","Locality",NA,NA
+229,153,"MOZ","Mozambique",7,"Nampula",66,"Monapo",229,"Monapo - Sede","Localidad","Locality",NA,NA
+230,153,"MOZ","Mozambique",7,"Nampula",66,"Monapo",230,"Netia","Localidad","Locality",NA,NA
+231,153,"MOZ","Mozambique",7,"Nampula",67,"Mongincual",231,"Chunga (Liupo)","Localidad","Locality",NA,NA
+232,153,"MOZ","Mozambique",7,"Nampula",67,"Mongincual",232,"Namige 2","Localidad","Locality",NA,NA
+233,153,"MOZ","Mozambique",7,"Nampula",67,"Mongincual",233,"Namingue","Localidad","Locality",NA,NA
+234,153,"MOZ","Mozambique",7,"Nampula",67,"Mongincual",234,"Quinga","Localidad","Locality",NA,NA
+235,153,"MOZ","Mozambique",7,"Nampula",67,"Mongincual",235,"Quixaxe","Localidad","Locality",NA,NA
+236,153,"MOZ","Mozambique",7,"Nampula",68,"Mossuril",236,"Ilha De Mocambique (Cidade)","Localidad","Locality",NA,NA
+237,153,"MOZ","Mozambique",7,"Nampula",68,"Mossuril",237,"Lunga","Localidad","Locality",NA,NA
+238,153,"MOZ","Mozambique",7,"Nampula",68,"Mossuril",238,"Matibane","Localidad","Locality",NA,NA
+239,153,"MOZ","Mozambique",7,"Nampula",68,"Mossuril",239,"Mossuril - Sede","Localidad","Locality",NA,NA
+240,153,"MOZ","Mozambique",7,"Nampula",69,"Muecate",240,"Imala","Localidad","Locality",NA,NA
+241,153,"MOZ","Mozambique",7,"Nampula",69,"Muecate",241,"Mucoluane (Muculuone)","Localidad","Locality",NA,NA
+242,153,"MOZ","Mozambique",7,"Nampula",69,"Muecate",242,"Muecate","Localidad","Locality",NA,NA
+243,153,"MOZ","Mozambique",7,"Nampula",70,"Murrupula",243,"Chinga","Localidad","Locality",NA,NA
+244,153,"MOZ","Mozambique",7,"Nampula",70,"Murrupula",244,"Murrupula","Localidad","Locality",NA,NA
+245,153,"MOZ","Mozambique",7,"Nampula",70,"Murrupula",245,"Nehessine","Localidad","Locality",NA,NA
+246,153,"MOZ","Mozambique",7,"Nampula",71,"Nacala Velha",246,"Cidade De Nacala","Localidad","Locality",NA,NA
+247,153,"MOZ","Mozambique",7,"Nampula",71,"Nacala Velha",247,"Covo","Localidad","Locality",NA,NA
+248,153,"MOZ","Mozambique",7,"Nampula",71,"Nacala Velha",248,"Nacala-Velha","Localidad","Locality",NA,NA
+249,153,"MOZ","Mozambique",7,"Nampula",72,"Namapa",249,"Alua","Localidad","Locality",NA,NA
+250,153,"MOZ","Mozambique",7,"Nampula",72,"Namapa",250,"Lurio","Localidad","Locality",NA,NA
+251,153,"MOZ","Mozambique",7,"Nampula",72,"Namapa",251,"Namapa-Erati","Localidad","Locality",NA,NA
+252,153,"MOZ","Mozambique",7,"Nampula",72,"Namapa",252,"Namiroa","Localidad","Locality",NA,NA
+253,153,"MOZ","Mozambique",7,"Nampula",73,"Nampula",253,"Anchilo","Localidad","Locality",NA,NA
+254,153,"MOZ","Mozambique",7,"Nampula",73,"Nampula",254,"Cidade De Nampula","Localidad","Locality",NA,NA
+255,153,"MOZ","Mozambique",7,"Nampula",73,"Nampula",255,"Mutivaze","Localidad","Locality",NA,NA
+256,153,"MOZ","Mozambique",7,"Nampula",73,"Nampula",256,"Namaita","Localidad","Locality",NA,NA
+257,153,"MOZ","Mozambique",7,"Nampula",73,"Nampula",257,"Rapale","Localidad","Locality",NA,NA
+258,153,"MOZ","Mozambique",7,"Nampula",74,"Ribaue",258,"Iapala","Localidad","Locality",NA,NA
+259,153,"MOZ","Mozambique",7,"Nampula",74,"Ribaue",259,"Kunle (Cunle)","Localidad","Locality",NA,NA
+260,153,"MOZ","Mozambique",7,"Nampula",74,"Ribaue",260,"Ribaue","Localidad","Locality",NA,NA
+261,153,"MOZ","Mozambique",8,"Nassa",75,"Cuamba",261,"Etatara","Localidad","Locality",NA,NA
+262,153,"MOZ","Mozambique",8,"Nassa",75,"Cuamba",262,"Lurio 2","Localidad","Locality",NA,NA
+263,153,"MOZ","Mozambique",8,"Nassa",75,"Cuamba",263,"Lurio","Localidad","Locality",NA,NA
+264,153,"MOZ","Mozambique",8,"Nassa",76,"Lago Niassa",264,"Cobue","Localidad","Locality",NA,NA
+265,153,"MOZ","Mozambique",8,"Nassa",76,"Lago Niassa",265,"Lunho","Localidad","Locality",NA,NA
+266,153,"MOZ","Mozambique",8,"Nassa",76,"Lago Niassa",266,"Meluluca (Metangula Sede)","Localidad","Locality",NA,NA
+267,153,"MOZ","Mozambique",8,"Nassa",76,"Lago Niassa",267,"Meponda","Localidad","Locality",NA,NA
+268,153,"MOZ","Mozambique",8,"Nassa",77,"Lago",268,"Cobue","Localidad","Locality",NA,NA
+269,153,"MOZ","Mozambique",8,"Nassa",77,"Lago",269,"Lunho","Localidad","Locality",NA,NA
+270,153,"MOZ","Mozambique",8,"Nassa",77,"Lago",270,"Maniamba","Localidad","Locality",NA,NA
+271,153,"MOZ","Mozambique",8,"Nassa",77,"Lago",271,"Meluluca (Metangula Sede)","Localidad","Locality",NA,NA
+272,153,"MOZ","Mozambique",8,"Nassa",78,"Lichinga",272,"Chimbonila","Localidad","Locality",NA,NA
+273,153,"MOZ","Mozambique",8,"Nassa",78,"Lichinga",273,"Cidade De Lichinga","Localidad","Locality",NA,NA
+274,153,"MOZ","Mozambique",8,"Nassa",78,"Lichinga",274,"Lione","Localidad","Locality",NA,NA
+275,153,"MOZ","Mozambique",8,"Nassa",78,"Lichinga",275,"Meponda","Localidad","Locality",NA,NA
+276,153,"MOZ","Mozambique",8,"Nassa",79,"Maúa",276,"Maiaca","Localidad","Locality",NA,NA
+277,153,"MOZ","Mozambique",8,"Nassa",79,"Maúa",277,"Maua","Localidad","Locality",NA,NA
+278,153,"MOZ","Mozambique",8,"Nassa",80,"Majune",278,"Majune (Malanga Sede)","Localidad","Locality",NA,NA
+279,153,"MOZ","Mozambique",8,"Nassa",80,"Majune",279,"Muaquia","Localidad","Locality",NA,NA
+280,153,"MOZ","Mozambique",8,"Nassa",80,"Majune",280,"Nairrubi","Localidad","Locality",NA,NA
+281,153,"MOZ","Mozambique",8,"Nassa",81,"Mandimba",281,"Mitande","Localidad","Locality",NA,NA
+282,153,"MOZ","Mozambique",8,"Nassa",82,"Marrupa",282,"Marangira","Localidad","Locality",NA,NA
+283,153,"MOZ","Mozambique",8,"Nassa",82,"Marrupa",283,"Marrupa-Sede","Localidad","Locality",NA,NA
+284,153,"MOZ","Mozambique",8,"Nassa",82,"Marrupa",284,"Nungo","Localidad","Locality",NA,NA
+285,153,"MOZ","Mozambique",8,"Nassa",83,"Mavago",285,"M'Sawize","Localidad","Locality",NA,NA
+286,153,"MOZ","Mozambique",8,"Nassa",83,"Mavago",286,"Mavago-Sede","Localidad","Locality",NA,NA
+287,153,"MOZ","Mozambique",8,"Nassa",84,"Mecanhelas",287,"Chiuta","Localidad","Locality",NA,NA
+288,153,"MOZ","Mozambique",8,"Nassa",84,"Mecanhelas",288,"Mandimba-Sede","Localidad","Locality",NA,NA
+289,153,"MOZ","Mozambique",8,"Nassa",84,"Mecanhelas",289,"Mecanhelas Sede (Insaca Sed","Localidad","Locality",NA,NA
+290,153,"MOZ","Mozambique",8,"Nassa",85,"Mecula",290,"Matondovela","Localidad","Locality",NA,NA
+291,153,"MOZ","Mozambique",8,"Nassa",85,"Mecula",291,"Mecula-Sede","Localidad","Locality",NA,NA
+292,153,"MOZ","Mozambique",8,"Nassa",86,"Metarica",292,"Metarica","Localidad","Locality",NA,NA
+293,153,"MOZ","Mozambique",8,"Nassa",86,"Metarica",293,"Nacumua","Localidad","Locality",NA,NA
+294,153,"MOZ","Mozambique",8,"Nassa",87,"Muembe",294,"Chiconono","Localidad","Locality",NA,NA
+295,153,"MOZ","Mozambique",8,"Nassa",87,"Muembe",295,"Muembe","Localidad","Locality",NA,NA
+296,153,"MOZ","Mozambique",8,"Nassa",88,"N'gauma",296,"Itepela","Localidad","Locality",NA,NA
+297,153,"MOZ","Mozambique",8,"Nassa",88,"N'gauma",297,"Massangulo","Localidad","Locality",NA,NA
+298,153,"MOZ","Mozambique",8,"Nassa",89,"Nipepe",298,"Muipite","Localidad","Locality",NA,NA
+299,153,"MOZ","Mozambique",8,"Nassa",89,"Nipepe",299,"Nipepe","Localidad","Locality",NA,NA
+300,153,"MOZ","Mozambique",8,"Nassa",90,"Sanga",300,"Lussimbeze","Localidad","Locality",NA,NA
+301,153,"MOZ","Mozambique",8,"Nassa",90,"Sanga",301,"Macaloge","Localidad","Locality",NA,NA
+302,153,"MOZ","Mozambique",8,"Nassa",90,"Sanga",302,"Matchedje","Localidad","Locality",NA,NA
+303,153,"MOZ","Mozambique",8,"Nassa",90,"Sanga",303,"Sanga (Unango Sede)","Localidad","Locality",NA,NA
+304,153,"MOZ","Mozambique",9,"Sofala",91,"Buzi",304,"Buzi","Localidad","Locality",NA,NA
+305,153,"MOZ","Mozambique",9,"Sofala",91,"Buzi",305,"Estaquinha","Localidad","Locality",NA,NA
+306,153,"MOZ","Mozambique",9,"Sofala",91,"Buzi",306,"Sofala","Localidad","Locality",NA,NA
+307,153,"MOZ","Mozambique",9,"Sofala",92,"Caia",307,"Caia - Sede","Localidad","Locality",NA,NA
+308,153,"MOZ","Mozambique",9,"Sofala",92,"Caia",308,"Murraca","Localidad","Locality",NA,NA
+309,153,"MOZ","Mozambique",9,"Sofala",92,"Caia",309,"Sena","Localidad","Locality",NA,NA
+310,153,"MOZ","Mozambique",9,"Sofala",93,"Chemba",310,"Chemba","Localidad","Locality",NA,NA
+311,153,"MOZ","Mozambique",9,"Sofala",93,"Chemba",311,"Chiramba","Localidad","Locality",NA,NA
+312,153,"MOZ","Mozambique",9,"Sofala",93,"Chemba",312,"Mulima","Localidad","Locality",NA,NA
+313,153,"MOZ","Mozambique",9,"Sofala",94,"Cheringoma",313,"Inhaminga","Localidad","Locality",NA,NA
+314,153,"MOZ","Mozambique",9,"Sofala",94,"Cheringoma",314,"Inhamitanga","Localidad","Locality",NA,NA
+315,153,"MOZ","Mozambique",9,"Sofala",95,"Chibabava",315,"Chibabava","Localidad","Locality",NA,NA
+316,153,"MOZ","Mozambique",9,"Sofala",95,"Chibabava",316,"Gonda (Gooda)","Localidad","Locality",NA,NA
+317,153,"MOZ","Mozambique",9,"Sofala",95,"Chibabava",317,"Muxungue","Localidad","Locality",NA,NA
+318,153,"MOZ","Mozambique",9,"Sofala",96,"Dondo",318,"Cidade Da Beira","Localidad","Locality",NA,NA
+319,153,"MOZ","Mozambique",9,"Sofala",96,"Dondo",319,"Dondo","Localidad","Locality",NA,NA
+320,153,"MOZ","Mozambique",9,"Sofala",96,"Dondo",320,"Mafambisse","Localidad","Locality",NA,NA
+321,153,"MOZ","Mozambique",9,"Sofala",97,"Gorongosa",321,"Gororngosa-Sede","Localidad","Locality",NA,NA
+322,153,"MOZ","Mozambique",9,"Sofala",97,"Gorongosa",322,"Nhamadzi","Localidad","Locality",NA,NA
+323,153,"MOZ","Mozambique",9,"Sofala",97,"Gorongosa",323,"Vanduzi (Vunduzi)","Localidad","Locality",NA,NA
+324,153,"MOZ","Mozambique",9,"Sofala",98,"Machanga",324,"Divinhe","Localidad","Locality",NA,NA
+325,153,"MOZ","Mozambique",9,"Sofala",98,"Machanga",325,"Machanga","Localidad","Locality",NA,NA
+326,153,"MOZ","Mozambique",9,"Sofala",99,"Maringue",326,"Canxixe","Localidad","Locality",NA,NA
+327,153,"MOZ","Mozambique",9,"Sofala",99,"Maringue",327,"Maringue","Localidad","Locality",NA,NA
+328,153,"MOZ","Mozambique",9,"Sofala",99,"Maringue",328,"Subui (Subwe)","Localidad","Locality",NA,NA
+329,153,"MOZ","Mozambique",9,"Sofala",100,"Marromeu",329,"Chupanga","Localidad","Locality",NA,NA
+330,153,"MOZ","Mozambique",9,"Sofala",100,"Marromeu",330,"Marromeu","Localidad","Locality",NA,NA
+331,153,"MOZ","Mozambique",9,"Sofala",101,"Muanza",331,"Galinha","Localidad","Locality",NA,NA
+332,153,"MOZ","Mozambique",9,"Sofala",101,"Muanza",332,"Muanza","Localidad","Locality",NA,NA
+333,153,"MOZ","Mozambique",9,"Sofala",102,"Nhamatanda",333,"Nhamatanda","Localidad","Locality",NA,NA
+334,153,"MOZ","Mozambique",9,"Sofala",102,"Nhamatanda",334,"Tica","Localidad","Locality",NA,NA
+335,153,"MOZ","Mozambique",10,"Tete",103,"Angónia",335,"Domue","Localidad","Locality",NA,NA
+336,153,"MOZ","Mozambique",10,"Tete",103,"Angónia",336,"Ulongoe","Localidad","Locality",NA,NA
+337,153,"MOZ","Mozambique",10,"Tete",104,"Cahora Bassa",337,"Chitholo","Localidad","Locality",NA,NA
+338,153,"MOZ","Mozambique",10,"Tete",104,"Cahora Bassa",338,"Chitima","Localidad","Locality",NA,NA
+339,153,"MOZ","Mozambique",10,"Tete",104,"Cahora Bassa",339,"Songo","Localidad","Locality",NA,NA
+340,153,"MOZ","Mozambique",10,"Tete",105,"Changara",340,"Chioco","Localidad","Locality",NA,NA
+341,153,"MOZ","Mozambique",10,"Tete",105,"Changara",341,"Luenha","Localidad","Locality",NA,NA
+342,153,"MOZ","Mozambique",10,"Tete",105,"Changara",342,"Mavara (Marara)","Localidad","Locality",NA,NA
+343,153,"MOZ","Mozambique",10,"Tete",105,"Changara",343,"Sede","Localidad","Locality",NA,NA
+344,153,"MOZ","Mozambique",10,"Tete",106,"Chifunde",344,"Chifunde","Localidad","Locality",NA,NA
+345,153,"MOZ","Mozambique",10,"Tete",106,"Chifunde",345,"Mualadzi","Localidad","Locality",NA,NA
+346,153,"MOZ","Mozambique",10,"Tete",106,"Chifunde",346,"N'Sadzo","Localidad","Locality",NA,NA
+347,153,"MOZ","Mozambique",10,"Tete",107,"Chiuta",347,"Kazula","Localidad","Locality",NA,NA
+348,153,"MOZ","Mozambique",10,"Tete",107,"Chiuta",348,"Manje","Localidad","Locality",NA,NA
+349,153,"MOZ","Mozambique",10,"Tete",108,"Macanga",349,"Chidzolomondo","Localidad","Locality",NA,NA
+350,153,"MOZ","Mozambique",10,"Tete",108,"Macanga",350,"Furancungo","Localidad","Locality",NA,NA
+351,153,"MOZ","Mozambique",10,"Tete",109,"Magoe",351,"Chinhopo (Chinthopo)","Localidad","Locality",NA,NA
+352,153,"MOZ","Mozambique",10,"Tete",109,"Magoe",352,"Mapheende","Localidad","Locality",NA,NA
+353,153,"MOZ","Mozambique",10,"Tete",109,"Magoe",353,"Mukumbura","Localidad","Locality",NA,NA
+354,153,"MOZ","Mozambique",10,"Tete",110,"Maravia",354,"Chipera","Localidad","Locality",NA,NA
+355,153,"MOZ","Mozambique",10,"Tete",110,"Maravia",355,"Chiputo","Localidad","Locality",NA,NA
+356,153,"MOZ","Mozambique",10,"Tete",110,"Maravia",356,"Fingoe","Localidad","Locality",NA,NA
+357,153,"MOZ","Mozambique",10,"Tete",110,"Maravia",357,"Molowera (Malowera)","Localidad","Locality",NA,NA
+358,153,"MOZ","Mozambique",10,"Tete",111,"Moatize",358,"Kambulatsitsi","Localidad","Locality",NA,NA
+359,153,"MOZ","Mozambique",10,"Tete",111,"Moatize",359,"Moatize","Localidad","Locality",NA,NA
+360,153,"MOZ","Mozambique",10,"Tete",111,"Moatize",360,"Zobue","Localidad","Locality",NA,NA
+361,153,"MOZ","Mozambique",10,"Tete",112,"Mutarara",361,"Chare","Localidad","Locality",NA,NA
+362,153,"MOZ","Mozambique",10,"Tete",112,"Mutarara",362,"Doa","Localidad","Locality",NA,NA
+363,153,"MOZ","Mozambique",10,"Tete",112,"Mutarara",363,"Inhangoma","Localidad","Locality",NA,NA
+364,153,"MOZ","Mozambique",10,"Tete",112,"Mutarara",364,"Nhamayabue","Localidad","Locality",NA,NA
+365,153,"MOZ","Mozambique",10,"Tete",113,"Tsangano",365,"Ntengo-Wambalane","Localidad","Locality",NA,NA
+366,153,"MOZ","Mozambique",10,"Tete",113,"Tsangano",366,"Tsangano","Localidad","Locality",NA,NA
+367,153,"MOZ","Mozambique",10,"Tete",114,"Zumbu",367,"Muze","Localidad","Locality",NA,NA
+368,153,"MOZ","Mozambique",10,"Tete",114,"Zumbu",368,"Zambue","Localidad","Locality",NA,NA
+369,153,"MOZ","Mozambique",10,"Tete",114,"Zumbu",369,"Zumbo","Localidad","Locality",NA,NA
+370,153,"MOZ","Mozambique",11,"Zambezia",115,"Alto Molocue",370,"Nauela","Localidad","Locality",NA,NA
+371,153,"MOZ","Mozambique",11,"Zambezia",115,"Alto Molocue",371,"Sede (Alto Molocue)","Localidad","Locality",NA,NA
+372,153,"MOZ","Mozambique",11,"Zambezia",116,"Chinde",372,"Chinde - Sede","Localidad","Locality",NA,NA
+373,153,"MOZ","Mozambique",11,"Zambezia",116,"Chinde",373,"Luabo","Localidad","Locality",NA,NA
+374,153,"MOZ","Mozambique",11,"Zambezia",116,"Chinde",374,"Mecaune (Micaune)","Localidad","Locality",NA,NA
+375,153,"MOZ","Mozambique",11,"Zambezia",117,"Gile",375,"Alto Ligonha","Localidad","Locality",NA,NA
+376,153,"MOZ","Mozambique",11,"Zambezia",117,"Gile",376,"Gile","Localidad","Locality",NA,NA
+377,153,"MOZ","Mozambique",11,"Zambezia",118,"Gurue",377,"Cidade De Gurue","Localidad","Locality",NA,NA
+378,153,"MOZ","Mozambique",11,"Zambezia",118,"Gurue",378,"Lioma","Localidad","Locality",NA,NA
+379,153,"MOZ","Mozambique",11,"Zambezia",118,"Gurue",379,"Nepuagiua (Mepuagiua)","Localidad","Locality",NA,NA
+380,153,"MOZ","Mozambique",11,"Zambezia",119,"Ile",380,"Ile","Localidad","Locality",NA,NA
+381,153,"MOZ","Mozambique",11,"Zambezia",119,"Ile",381,"Mulevala (Namigonha)","Localidad","Locality",NA,NA
+382,153,"MOZ","Mozambique",11,"Zambezia",119,"Ile",382,"Socone","Localidad","Locality",NA,NA
+383,153,"MOZ","Mozambique",11,"Zambezia",120,"Inhassunge",383,"Gonhane","Localidad","Locality",NA,NA
+384,153,"MOZ","Mozambique",11,"Zambezia",120,"Inhassunge",384,"Mucupia (Inhassunge Sede)","Localidad","Locality",NA,NA
+385,153,"MOZ","Mozambique",11,"Zambezia",121,"Lugela",385,"Lugela","Localidad","Locality",NA,NA
+386,153,"MOZ","Mozambique",11,"Zambezia",121,"Lugela",386,"Manhamade","Localidad","Locality",NA,NA
+387,153,"MOZ","Mozambique",11,"Zambezia",121,"Lugela",387,"Muabanama","Localidad","Locality",NA,NA
+388,153,"MOZ","Mozambique",11,"Zambezia",121,"Lugela",388,"Tacuane","Localidad","Locality",NA,NA
+389,153,"MOZ","Mozambique",11,"Zambezia",122,"Maganja da Costa",389,"Bojone (Bajone)","Localidad","Locality",NA,NA
+390,153,"MOZ","Mozambique",11,"Zambezia",122,"Maganja da Costa",390,"Maganja Da Costa","Localidad","Locality",NA,NA
+391,153,"MOZ","Mozambique",11,"Zambezia",122,"Maganja da Costa",391,"Mocubela","Localidad","Locality",NA,NA
+392,153,"MOZ","Mozambique",11,"Zambezia",122,"Maganja da Costa",392,"Nante (Baixo Licungo)","Localidad","Locality",NA,NA
+393,153,"MOZ","Mozambique",11,"Zambezia",123,"Milange",393,"Majaua","Localidad","Locality",NA,NA
+394,153,"MOZ","Mozambique",11,"Zambezia",123,"Milange",394,"Milange","Localidad","Locality",NA,NA
+395,153,"MOZ","Mozambique",11,"Zambezia",123,"Milange",395,"Molumbo","Localidad","Locality",NA,NA
+396,153,"MOZ","Mozambique",11,"Zambezia",123,"Milange",396,"Mongue","Localidad","Locality",NA,NA
+397,153,"MOZ","Mozambique",11,"Zambezia",124,"Mocuba",397,"Cidade De Mocuba","Localidad","Locality",NA,NA
+398,153,"MOZ","Mozambique",11,"Zambezia",124,"Mocuba",398,"Mugeba","Localidad","Locality",NA,NA
+399,153,"MOZ","Mozambique",11,"Zambezia",124,"Mocuba",399,"Namajavira","Localidad","Locality",NA,NA
+400,153,"MOZ","Mozambique",11,"Zambezia",125,"Mopeia",400,"Campo","Localidad","Locality",NA,NA
+401,153,"MOZ","Mozambique",11,"Zambezia",125,"Mopeia",401,"Mopeia","Localidad","Locality",NA,NA
+402,153,"MOZ","Mozambique",11,"Zambezia",126,"Morrumbala",402,"Chire","Localidad","Locality",NA,NA
+403,153,"MOZ","Mozambique",11,"Zambezia",126,"Morrumbala",403,"Derre","Localidad","Locality",NA,NA
+404,153,"MOZ","Mozambique",11,"Zambezia",126,"Morrumbala",404,"Megaza","Localidad","Locality",NA,NA
+405,153,"MOZ","Mozambique",11,"Zambezia",126,"Morrumbala",405,"Morrumbala","Localidad","Locality",NA,NA
+406,153,"MOZ","Mozambique",11,"Zambezia",127,"Namacurra",406,"Mucuse (Macuze)","Localidad","Locality",NA,NA
+407,153,"MOZ","Mozambique",11,"Zambezia",127,"Namacurra",407,"Namacurra","Localidad","Locality",NA,NA
+408,153,"MOZ","Mozambique",11,"Zambezia",128,"Namarroi",408,"Namarroi","Localidad","Locality",NA,NA
+409,153,"MOZ","Mozambique",11,"Zambezia",128,"Namarroi",409,"Regone","Localidad","Locality",NA,NA
+410,153,"MOZ","Mozambique",11,"Zambezia",129,"Nicoadala",410,"Cidade De Quelimane","Localidad","Locality",NA,NA
+411,153,"MOZ","Mozambique",11,"Zambezia",129,"Nicoadala",411,"Maquival","Localidad","Locality",NA,NA
+412,153,"MOZ","Mozambique",11,"Zambezia",129,"Nicoadala",412,"Nicodala","Localidad","Locality",NA,NA
+413,153,"MOZ","Mozambique",11,"Zambezia",130,"Pebane",413,"Mulela Mualama","Localidad","Locality",NA,NA
+414,153,"MOZ","Mozambique",11,"Zambezia",130,"Pebane",414,"Naburi","Localidad","Locality",NA,NA
+415,153,"MOZ","Mozambique",11,"Zambezia",130,"Pebane",415,"Pebane","Localidad","Locality",NA,NA
