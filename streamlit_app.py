@@ -72,7 +72,7 @@ all_90_conf = gpd.sjoin(
         crs='EPSG:4326'
         ),
     shapes,
-    op='within'
+    predicate='within'
 )
 
 building_density = all_90_conf.dissolve(
@@ -164,7 +164,7 @@ recent_floods = floods[floods['SEASON'] >= 2000]
 recent_flood_limited = gpd.sjoin(
     recent_floods,
     shapes,
-    op='within'
+    predicate='within'
 )
 
 for feature, name, t in zip(recent_flood_limited.geometry, recent_flood_limited.NAME, recent_flood_limited.ISO_TIME):
