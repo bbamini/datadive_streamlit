@@ -10,22 +10,24 @@ st.title('Southern Africa Buildings Census')
 
 with st.sidebar:
     st.image('./DataDive_logo.png')
+    st.markdown('Prototype for Mozambique only')
 
 option = st.sidebar.selectbox(
     'Country:',
-    ('South Africa', 'Mozambique')
+    ('Mozambique') # 'South Africa' ... Removed South Africa to minimize space limitations in free Streamlit app hosting
 )
+
 
 st.header(option)
 
 if option == 'South Africa':
-    dom_df = pd.read_csv('south_africa_95conf_W1_6.csv')
-    dom_df['iso_3'] = 'ZAF'
-    f = r"ZAF_adm/ZAF_adm2.shp" #NAME_2 for Magisterial district
-    shapes = gpd.read_file(f)
-    c_lat = -30.5595
-    c_lon = 22.9375
-    dom_all = pd.read_csv('southafrica_90conf_dom_height_all.csv.zip', compression="zip")
+    # dom_df = pd.read_csv('south_africa_95conf_W1_6.csv')
+    # dom_df['iso_3'] = 'ZAF'
+    # f = r"ZAF_adm/ZAF_adm2.shp" #NAME_2 for Magisterial district
+    # shapes = gpd.read_file(f)
+    # c_lat = -30.5595
+    # c_lon = 22.9375
+    # dom_all = pd.read_csv('southafrica_90conf_dom_height_all.csv.zip', compression="zip")
 elif option == 'Mozambique':
     dom_df = pd.read_csv('mozambique_95conf_W1_6.csv')
     dom_df['iso_3'] = 'MOZ'
@@ -109,24 +111,24 @@ st.plotly_chart(fig0, use_container_width=True)
 
 st.subheader('Building Areas')
 
-st.markdown('The figure below pulls buildings at or above 95\% confidence from Google Open Buildings and joins this with administrative boundaries.')
-st.markdown('Caveat: If certain districts have lower confidence overall due to regional geographic aspects then this map may mislead building size density.')
+# st.markdown('The figure below pulls buildings at or above 95\% confidence from Google Open Buildings and joins this with administrative boundaries.')
+# st.markdown('Caveat: If certain districts have lower confidence overall due to regional geographic aspects then this map may mislead building size density.')
 
-fig = px.density_mapbox(geodf,
-                        lat = 'latitude',
-                        lon = 'longitude',
-                        z = 'area_in_meters', 
-                        hover_name = 'Type',
-                        color_continuous_scale = 'sunset',
-                        radius = 8,
-                        center = dict(lat = c_lat, lon = c_lon),
-                        zoom = 3,
-                        labels='Area in m2',
-                        mapbox_style = 'open-street-map',
-                        title = 'Heatmap of Building Areas'
-                        )
-fig.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
-st.plotly_chart(fig, use_container_width=True)
+# fig = px.density_mapbox(geodf,
+#                         lat = 'latitude',
+#                         lon = 'longitude',
+#                         z = 'area_in_meters', 
+#                         hover_name = 'Type',
+#                         color_continuous_scale = 'sunset',
+#                         radius = 8,
+#                         center = dict(lat = c_lat, lon = c_lon),
+#                         zoom = 3,
+#                         labels='Area in m2',
+#                         mapbox_style = 'open-street-map',
+#                         title = 'Heatmap of Building Areas'
+#                         )
+# fig.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
+# st.plotly_chart(fig, use_container_width=True)
 
 
 st.markdown('The figure below pulls buildings at or above 90\% confidence from Google Open Buildings and joins this with administrative boundaries. The colors show the aggregate sum of these building areas within the district. It serves to estimate land area coverage by buildings.')
