@@ -12,31 +12,43 @@ with st.sidebar:
     st.image('./DataDive_logo.png')
     st.markdown('Prototype for Mozambique only')
 
-option = st.sidebar.selectbox(
-    'Country:',
-    ('Mozambique') # 'South Africa' ... Removed South Africa to minimize space limitations in free Streamlit app hosting
-)
+# option = st.sidebar.selectbox(
+#     'Country:',
+#     ('South Africa', 'Mozambique') #  ... Removed South Africa to minimize space limitations in free Streamlit app hosting
+# )
 
 
-st.header(option)
+# st.header(option)
 
-if option == 'South Africa':
-    # dom_df = pd.read_csv('south_africa_95conf_W1_6.csv')
-    # dom_df['iso_3'] = 'ZAF'
-    # f = r"ZAF_adm/ZAF_adm2.shp" #NAME_2 for Magisterial district
-    # shapes = gpd.read_file(f)
-    # c_lat = -30.5595
-    # c_lon = 22.9375
-    # dom_all = pd.read_csv('southafrica_90conf_dom_height_all.csv.zip', compression="zip")
-elif option == 'Mozambique':
-    dom_df = pd.read_csv('mozambique_95conf_W1_6.csv')
-    dom_df['iso_3'] = 'MOZ'
-    f = r"MOZ_adm/MOZ_adm2.shp" #NAME_2 for district
-    shapes = gpd.read_file(f)
-    shapes.replace({'Zambezia': 'Zambézia', 'Niassa':'Nassa'}, inplace=True)
-    c_lat = -18.6657
-    c_lon = 35.5296
-    dom_all = pd.read_csv('mozambique_90conf_dom_height_all.csv.zip', compression="zip")
+# if option == 'South Africa':
+#     dom_df = pd.read_csv('south_africa_95conf_W1_6.csv')
+#     dom_df['iso_3'] = 'ZAF'
+#     f = r"ZAF_adm/ZAF_adm2.shp" #NAME_2 for Magisterial district
+#     shapes = gpd.read_file(f)
+#     c_lat = -30.5595
+#     c_lon = 22.9375
+#     dom_all = pd.read_csv('southafrica_90conf_dom_height_all.csv.zip', compression="zip")
+# elif option == 'Mozambique':
+#     dom_df = pd.read_csv('mozambique_95conf_W1_6.csv')
+#     dom_df['iso_3'] = 'MOZ'
+#     f = r"MOZ_adm/MOZ_adm2.shp" #NAME_2 for district
+#     shapes = gpd.read_file(f)
+#     shapes.replace({'Zambezia': 'Zambézia', 'Niassa':'Nassa'}, inplace=True)
+#     c_lat = -18.6657
+#     c_lon = 35.5296
+#     dom_all = pd.read_csv('mozambique_90conf_dom_height_all.csv.zip', compression="zip")
+
+st.header("Mozambique")
+
+dom_df = pd.read_csv('mozambique_95conf_W1_6.csv')
+dom_df['iso_3'] = 'MOZ'
+f = r"MOZ_adm/MOZ_adm2.shp" #NAME_2 for district
+shapes = gpd.read_file(f)
+shapes.replace({'Zambezia': 'Zambézia', 'Niassa':'Nassa'}, inplace=True)
+c_lat = -18.6657
+c_lon = 35.5296
+dom_all = pd.read_csv('mozambique_90conf_dom_height_all.csv.zip', compression="zip")
+
 
 dom_df = dom_df[dom_df.Country.notna()]
 geodf = gpd.GeoDataFrame(
@@ -88,26 +100,26 @@ building_density = all_90_conf.dissolve(
 building_density.reset_index(inplace=True)
 building_density = shapes.merge(building_density[['NAME_2', 'NAME_0', 'area_in_meters', 'pop_2025']], on = "NAME_2")
 
-st.subheader('Building Density by District')
+# st.subheader('Building Density by District')
 
 st.markdown('Spatial administrative boundaries data was obtained from [Diva-GIS](http://www.diva-gis.org/gdata)')
 
-st.markdown('The figure below pulls buildings at or above 90\% confidence from Google Open Buildings and joins this with administrative boundaries. The counts of buildings at or above 90\% confidence within each administrative boundary serves to estimate the density.')
-st.markdown('Caveat: If certain districts have lower confidence overall due to regional geographic aspects then this map may mislead building density.')
+# st.markdown('The figure below pulls buildings at or above 90\% confidence from Google Open Buildings and joins this with administrative boundaries. The counts of buildings at or above 90\% confidence within each administrative boundary serves to estimate the density.')
+# st.markdown('Caveat: If certain districts have lower confidence overall due to regional geographic aspects then this map may mislead building density.')
 
-fig0 = px.choropleth(building_density,
-                   geojson=building_density.geometry,
-                   locations=building_density.index,
-                   color='NAME_0_y',
-                   hover_name = 'NAME_2',
-                   hover_data = 'NAME_1',
-                   color_continuous_scale = 'plasma',
-                   projection="mercator",
-                   labels='Building Density'
-                   )
-fig0.update_geos(fitbounds="locations", visible=False)
-#fig0.show()
-st.plotly_chart(fig0, use_container_width=True)
+# fig0 = px.choropleth(building_density,
+#                    geojson=building_density.geometry,
+#                    locations=building_density.index,
+#                    color='NAME_0_y',
+#                    hover_name = 'NAME_2',
+#                    hover_data = 'NAME_1',
+#                    color_continuous_scale = 'plasma',
+#                    projection="mercator",
+#                    labels='Building Density'
+#                    )
+# fig0.update_geos(fitbounds="locations", visible=False)
+# #fig0.show()
+# st.plotly_chart(fig0, use_container_width=True)
 
 st.subheader('Building Areas')
 
